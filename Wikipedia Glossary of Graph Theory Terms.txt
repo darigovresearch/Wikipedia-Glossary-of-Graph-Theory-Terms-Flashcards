@@ -1,3 +1,17 @@
+Introduction (Wikipedia Glossary of Graph Theory Terms)|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">Wikipedia's Glossary of graph theory terms</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Graph Theory Terms)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms</a></p>
+"
 Square brackets [ ] (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary""><span class=""texhtml""><i>G</i>[<i>S</i>]</span> is the <a href=""#induced""><span title=""See entry on this page at § induced"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">induced subgraph</span></a> of a graph <span class=""texhtml mvar"" style=""font-style:italic;"">G</span> for vertex subset <span class=""texhtml mvar"" style=""font-style:italic;"">S</span>.</dd>
 "
