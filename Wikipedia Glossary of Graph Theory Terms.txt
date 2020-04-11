@@ -1,15 +1,8 @@
-<h2><span class="mw-headline" id="Symbols">Symbols</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=1" title="Edit section: Symbols">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="square_bracket" style="margin-top: 0.4em;"><dfn class="glossary">Square brackets [ ]</dfn></dt>
 <dd class="glossary"><span class="texhtml"><i>G</i>[<i>S</i>]</span> is the <a href="#induced"><span title="See entry on this page at § induced" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">induced subgraph</span></a> of a graph <span class="texhtml mvar" style="font-style:italic;">G</span> for vertex subset <span class="texhtml mvar" style="font-style:italic;">S</span>.</dd>
 
 <dt class="glossary" id="′" style="margin-top: 0.4em;"><dfn class="glossary">Prime symbol '</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Prime_(symbol)" title="Prime (symbol)">prime symbol</a> is often used to modify notation for graph invariants so that it applies to the <a href="/wiki/Line_graph" title="Line graph">line graph</a> instead of the given graph. For instance, <span class="texhtml"><i>&#945;</i>(<i>G</i>)</span> is the independence number of a graph; <span class="texhtml"><i>&#945;</i>′(<i>G</i>)</span> is the matching number of the graph, which equals the independence number of its line graph. Similarly, <span class="texhtml"><i>&#967;</i>(<i>G</i>)</span> is the chromatic number of a graph; <span class="texhtml"><i>&#967;</i>&#8202;′(<i>G</i>)</span> is the chromatic index of the graph, which equals the chromatic number of its line graph.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="achromatic" style="margin-top: 0.4em;"><dfn class="glossary">achromatic</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Achromatic_number" class="mw-redirect" title="Achromatic number">achromatic number</a> of a graph is the maximum number of colors in a complete coloring.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></dd>
@@ -75,10 +68,6 @@
 <dt class="glossary" id="automorphism" style="margin-top: 0.4em;"><dfn class="glossary">automorphism</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Graph_automorphism" title="Graph automorphism">graph automorphism</a> is a symmetry of a graph, an isomorphism from the graph to itself.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="bag" style="margin-top: 0.4em;"><dfn class="glossary">bag</dfn></dt>
 <dd class="glossary">One of the sets of vertices in a <a href="#tree_decomposition"><span title="See entry on this page at § tree decomposition" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tree decomposition</span></a>.</dd>
 
@@ -137,10 +126,6 @@
 <dt class="glossary" id="butterfly" style="margin-top: 0.4em;"><dfn class="glossary">butterfly</dfn></dt>
 <dd class="glossary">1.&#160;&#160;The <a href="/wiki/Butterfly_graph" title="Butterfly graph">butterfly graph</a> has five vertices and six edges; it is formed by two triangles that share a vertex.</dd>
 <dd class="glossary">2.&#160;&#160;The butterfly network is a graph used as a network architecture in distributed computing, closely related to the <a href="/wiki/Cube-connected_cycles" title="Cube-connected cycles">cube-connected cycles</a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="c" style="margin-top: 0.4em;"><dfn class="glossary"><i>C</i></dfn></dt>
 <dd class="glossary"><span class="texhtml"><i>C</i><sub><i>n</i></sub></span> is an <span class="texhtml mvar" style="font-style:italic;">n</span>-vertex <a href="/wiki/Cycle_graph" title="Cycle graph">cycle graph</a>; see <a href="#cycle"><span title="See entry on this page at § cycle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cycle</span></a>.</dd>
@@ -331,10 +316,6 @@
 <dt class="glossary" id="cycle" style="margin-top: 0.4em;"><dfn class="glossary">cycle</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Cycle_(graph_theory)" title="Cycle (graph theory)">cycle</a> may either refer to a closed walk (also called a tour) or more specifically to a closed walk without repeated vertices and consequently edges (also called a simple cycle). In either case, the choice of first vertex is usually considered unimportant: <a href="/wiki/Cyclic_permutation" title="Cyclic permutation">cyclic permutations</a> of the walk produce the same cycle. Important special cases of cycles include <a href="/wiki/Hamiltonian_cycle" class="mw-redirect" title="Hamiltonian cycle">Hamiltonian cycles</a>, <a href="/wiki/Induced_cycle" class="mw-redirect" title="Induced cycle">induced cycles</a>, <a href="/wiki/Peripheral_cycle" title="Peripheral cycle">peripheral cycles</a>, and the shortest cycle, which defines the <a href="/wiki/Girth_(graph_theory)" title="Girth (graph theory)">girth</a> of a graph. A <span class="texhtml mvar" style="font-style:italic;">k</span>-cycle is a cycle of length <span class="texhtml mvar" style="font-style:italic;">k</span>; for instance a <span class="texhtml mvar" style="font-style:italic;">2</span>-cycle is a <a href="/wiki/Digon" title="Digon">digon</a> and a <span class="texhtml">3</span>-cycle is a triangle. A <a href="/wiki/Cycle_graph" title="Cycle graph">cycle graph</a> is a graph that is itself a simple cycle; a cycle graph with <span class="texhtml mvar" style="font-style:italic;">n</span> vertices is commonly denoted <span class="texhtml"><i>C</i><sub><i>n</i></sub></span>. The <a href="/wiki/Cycle_space" title="Cycle space">cycle space</a> is a <a href="/wiki/Vector_space" title="Vector space">vector space</a> generated by simple cycles in a graph.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="dag" style="margin-top: 0.4em;"><dfn class="glossary">DAG</dfn></dt>
 <dd class="glossary">Abbreviation for <a href="/wiki/Directed_acyclic_graph" title="Directed acyclic graph">directed acyclic graph</a>, a directed graph without any directed cycles.</dd>
 
@@ -424,10 +405,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dt class="glossary" id="dominating" style="margin-top: 0.4em;"><dfn class="glossary">dominating</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Dominating_set" title="Dominating set">dominating set</a> is a set of vertices that includes or is adjacent to every vertex in the graph; not to be confused with a vertex cover, a vertex set that is incident to all edges in the graph. Important special types of dominating sets include independent dominating sets (dominating sets that are also independent sets) and connected dominating sets (dominating sets that induced connected subgraphs). A single-vertex dominating set may also be called a universal vertex. The domination number of a graph is the number of vertices in the smallest dominating set.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="e" style="margin-top: 0.4em;"><dfn class="glossary"><i>E</i></dfn></dt>
 <dd class="glossary"><span class="texhtml"><i>E</i>(<i>G</i>)</span> is the edge set of <span class="texhtml mvar" style="font-style:italic;">G</span>; see <a href="#edge_set"><span title="See entry on this page at § edge set" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">edge set</span></a>.</dd>
 
@@ -484,10 +461,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dd class="glossary">4.&#160;&#160;The spectral expansion of a <span class="texhtml mvar" style="font-style:italic;">d</span>-regular graph <span class="texhtml mvar" style="font-style:italic;">G</span> is the <a href="/wiki/Spectral_gap" title="Spectral gap">spectral gap</a> between the largest eigenvalue <span class="texhtml mvar" style="font-style:italic;">d</span> of its adjacency matrix and the second-largest eigenvalue.</dd>
 <dd class="glossary">5.&#160;&#160;A family of graphs has <a href="/wiki/Bounded_expansion" title="Bounded expansion">bounded expansion</a> if all its <span class="texhtml mvar" style="font-style:italic;">r</span>-shallow minors have a ratio of edges to vertices bounded by a function of <span class="texhtml mvar" style="font-style:italic;">r</span>, and polynomial expansion if the function of <span class="texhtml mvar" style="font-style:italic;">r</span> is a polynomial.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="face" style="margin-top: 0.4em;"><dfn class="glossary">face</dfn></dt>
 <dd class="glossary">In a <a href="/wiki/Planar_graph" title="Planar graph">plane graph</a> or <a href="/wiki/Graph_embedding" title="Graph embedding">graph embedding</a>, a connected component of the subset of the plane or surface of the embedding that is disjoint from the graph. For an embedding in the plane, all but one face will be bounded; the one exceptional face that extends to infinity is called the outer face.</dd>
 
@@ -526,10 +499,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dt class="glossary" id="functional_graph" style="margin-top: 0.4em;"><dfn class="glossary">functional graph</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Functional_graph" class="mw-redirect" title="Functional graph">functional graph</a> is a directed graph where every vertex has out-degree one.  Equivalently, a functional graph is a maximal directed pseudoforest.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="g" style="margin-top: 0.4em;"><dfn class="glossary"><i>G</i></dfn></dt>
 <dd class="glossary">A variable often used to denote a graph.</dd>
 
@@ -558,10 +527,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 
 <dt class="glossary" id="grundy_number" style="margin-top: 0.4em;"><dfn class="glossary">Grundy number</dfn></dt>
 <dd class="glossary">1.&#160;&#160;The <a href="/wiki/Grundy_number" title="Grundy number">Grundy number</a> of a graph is the maximum number of colors produced by a <a href="/wiki/Greedy_coloring" title="Greedy coloring">greedy coloring</a>, with a badly-chosen vertex ordering.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="h" style="margin-top: 0.4em;"><dfn class="glossary"><i>H</i></dfn></dt>
 <dd class="glossary">A variable often used to denote a graph, especially when another graph has already been denoted by <span class="texhtml mvar" style="font-style:italic;">G</span>.</dd>
@@ -615,10 +580,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 
 <dt class="glossary" id="hypo-" style="margin-top: 0.4em;"><dfn class="glossary">hypo-</dfn></dt>
 <dd class="glossary">This prefix, in combination with a graph property, indicates a graph that does not have the property but such that every subgraph formed by deleting a single vertex does have the property. For instance, a <a href="/wiki/Hypohamiltonian_graph" title="Hypohamiltonian graph">hypohamiltonian graph</a> is one that does not have a Hamiltonian cycle, but for which every one-vertex deletion produces a Hamiltonian subgraph. Compare <a href="#critical"><span title="See entry on this page at § critical" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">critical</span></a>, used for graphs which have a property but for which every one-vertex deletion does not.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></dd>
-
-</dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="in-degree" style="margin-top: 0.4em;"><dfn class="glossary">in-degree</dfn></dt>
 <dd class="glossary">The number of incoming edges in a directed graph; see <a href="#degree"><span title="See entry on this page at § degree" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">degree</span></a>.</dd>
@@ -686,10 +647,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dt class="glossary" id="isthmus" style="margin-top: 0.4em;"><dfn class="glossary">isthmus</dfn></dt>
 <dd class="glossary">Synonym for <a href="#bridge"><span title="See entry on this page at § bridge" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bridge</span></a>, in the sense of an edge whose removal disconnects the graph.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="k" style="margin-top: 0.4em;"><dfn class="glossary"><i>K</i></dfn></dt>
 <dd class="glossary">For the notation for complete graphs, complete bipartite graphs, and complete multipartite graphs, see <a href="#complete"><span title="See entry on this page at § complete" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">complete</span></a>.</dd>
 
@@ -698,10 +655,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 
 <dt class="glossary" id="knot" style="margin-top: 0.4em;"><dfn class="glossary">knot</dfn></dt>
 <dd class="glossary">An inescapable section of a <a href="#directed_graph"><span title="See entry on this page at § directed graph" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">directed graph</span></a>. See <a href="/wiki/Knot_(mathematics)" title="Knot (mathematics)">knot (mathematics)</a> and <a href="/wiki/Knot_theory" title="Knot theory">knot theory</a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="l" style="margin-top: 0.4em;"><dfn class="glossary"><i>L</i></dfn></dt>
 <dd class="glossary"><span class="texhtml"><i>L</i>(<i>G</i>)</span> is the <a href="/wiki/Line_graph" title="Line graph">line graph</a> of <span class="texhtml mvar" style="font-style:italic;">G</span>; see <a href="#line"><span title="See entry on this page at § line" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">line</span></a>.</dd>
@@ -736,10 +689,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 
 <dt class="glossary" id="loop" style="margin-top: 0.4em;"><dfn class="glossary">loop</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Loop_(graph_theory)" title="Loop (graph theory)">loop</a> or self-loop is an edge both of whose endpoints are the same vertex. It forms a cycle of length <span class="texhtml">1</span>. These are not allowed in simple graphs.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="magnification" style="margin-top: 0.4em;"><dfn class="glossary">magnification</dfn></dt>
 <dd class="glossary">Synonym for vertex <a href="#expansion"><span title="See entry on this page at § expansion" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">expansion</span></a>.</dd>
@@ -794,10 +743,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dt class="glossary" id="multiplicity" style="margin-top: 0.4em;"><dfn class="glossary">multiplicity</dfn></dt>
 <dd class="glossary">The multiplicity of an edge is the number of edges in a multiple adjacency. The multiplicity of a graph is the maximum multiplicity of any of its edges.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="n" style="margin-top: 0.4em;"><dfn class="glossary"><i>N</i></dfn></dt>
 <dd class="glossary">1.&#160;&#160;For the notation for open and closed neighborhoods, see <a href="#neighbourhood"><span title="See entry on this page at § neighbourhood" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">neighbourhood</span></a>.</dd>
 <dd class="glossary">2.&#160;&#160;A lower-case <span class="texhtml mvar" style="font-style:italic;">n</span> is often used (especially in computer science) to denote the number of vertices in a given graph.</dd>
@@ -821,10 +766,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 
 <dt class="glossary" id="null_graph" style="margin-top: 0.4em;"><dfn class="glossary">null graph</dfn></dt>
 <dd class="glossary">See <a href="#empty_graph"><span title="See entry on this page at § empty graph" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">empty graph</span></a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="odd" style="margin-top: 0.4em;"><dfn class="glossary">odd</dfn></dt>
 <dd class="glossary">1.&#160;&#160;An odd cycle is a cycle whose length is odd. The <a href="/wiki/Girth_(graph_theory)" title="Girth (graph theory)">odd girth</a> of a non-bipartite graph is the length of its shortest odd cycle. An odd hole is a special case of an odd cycle: one that is induced and has four or more vertices.</dd>
@@ -856,10 +797,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 
 <dt class="glossary" id="outerplanar" style="margin-top: 0.4em;"><dfn class="glossary">outerplanar</dfn></dt>
 <dd class="glossary">An <a href="/wiki/Outerplanar_graph" title="Outerplanar graph">outerplanar graph</a> is a graph that can be embedded in the plane (without crossings) so that all vertices are on the outer face of the graph.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="path" style="margin-top: 0.4em;"><dfn class="glossary">path</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Path_(graph_theory)" title="Path (graph theory)">path</a> may either be a walk or a walk without repeated vertices and consequently edges (also called a simple path), depending on the source. Important special cases include <a href="/wiki/Induced_path" title="Induced path">induced paths</a> and <a href="/wiki/Shortest_path" class="mw-redirect" title="Shortest path">shortest paths</a>.</dd>
@@ -916,19 +853,11 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dt class="glossary" id="pseudograph" style="margin-top: 0.4em;"><dfn class="glossary">pseudograph</dfn></dt>
 <dd class="glossary">A pseudograph is a graph or multigraph that allows self-loops.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="quasi-line_graph" style="margin-top: 0.4em;"><dfn class="glossary">quasi-line graph</dfn></dt>
 <dd class="glossary">A quasi-line graph or locally co-bipartite graph is a graph in which the open neighborhood of every vertex can be partitioned into two cliques. These graphs are always <a href="/wiki/Claw-free_graph" title="Claw-free graph">claw-free</a> and they include as a special case the <a href="/wiki/Line_graph" title="Line graph">line graphs</a>. They are used in the structure theory of claw-free graphs.</dd>
 
 <dt class="glossary" id="quiver" style="margin-top: 0.4em;"><dfn class="glossary">quiver</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Quiver_(mathematics)" title="Quiver (mathematics)">quiver</a> is a directed multigraph, as used in <a href="/wiki/Category_theory" title="Category theory">category theory</a>. The edges of a quiver are called arrows.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="radius" style="margin-top: 0.4em;"><dfn class="glossary">radius</dfn></dt>
 <dd class="glossary">The radius of a graph is the minimum <a href="#eccentricity"><span title="See entry on this page at § eccentricity" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">eccentricity</span></a> of any vertex.</dd>
@@ -982,10 +911,6 @@ For disconnected graphs, definitions vary: the diameter may be defined as infini
 <dt class="glossary" id="root" style="margin-top: 0.4em;"><dfn class="glossary">root</dfn></dt>
 <dd class="glossary">1.&#160;&#160;A designated vertex in a graph, particularly in directed trees and <a href="/wiki/Rooted_graph" title="Rooted graph">rooted graphs</a>.</dd>
 <dd class="glossary">2.&#160;&#160;The inverse operation to a <a href="/wiki/Graph_power" title="Graph power">graph power</a>: a <span class="texhtml mvar" style="font-style:italic;">k</span>th root of a graph <span class="texhtml mvar" style="font-style:italic;">G</span> is another graph on the same vertex set such that two vertices are adjacent in <span class="texhtml mvar" style="font-style:italic;">G</span> if and only if they have distance at most <span class="texhtml mvar" style="font-style:italic;">k</span> in the root.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="second_order" style="margin-top: 0.4em;"><dfn class="glossary">second order</dfn></dt>
 <dd class="glossary">The second order <a href="/wiki/Logic_of_graphs" title="Logic of graphs">logic of graphs</a> is a form of logic in which variables may represent vertices, edges, sets of vertices, and (sometimes) sets of edges. This logic includes predicates for testing whether a vertex and edge are incident, as well as whether a vertex or edge belongs to a set. To be distinguished from first order logic, in which variables can only represent vertices.</dd>
@@ -1084,10 +1009,6 @@ Important cases include <a href="/wiki/Spanning_tree" title="Spanning tree">span
 <dt class="glossary" id="supergraph" style="margin-top: 0.4em;"><dfn class="glossary">supergraph</dfn></dt>
 <dd class="glossary">A graph formed by adding vertices, edges, or both to a given graph. If <span class="texhtml mvar" style="font-style:italic;">H</span> is a subgraph of <span class="texhtml mvar" style="font-style:italic;">G</span>, then <span class="texhtml mvar" style="font-style:italic;">G</span> is a supergraph of <span class="texhtml mvar" style="font-style:italic;">H</span>.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="theta" style="margin-top: 0.4em;"><dfn class="glossary">theta</dfn></dt>
 <dd class="glossary">1.&#160;&#160;A theta graph is the union of three internally disjoint (simple) paths that have the same two distinct end vertices.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></dd>
 <dd class="glossary">2.&#160;&#160;The <a href="/wiki/Theta_graph" title="Theta graph">theta graph</a> of a collection of points in the Euclidean plane is constructed by constructing a system of cones surrounding each point and adding one edge per cone, to the point whose projection onto a central ray of the cone is smallest.</dd>
@@ -1138,10 +1059,6 @@ Important cases include <a href="/wiki/Spanning_tree" title="Spanning tree">span
 <dd class="glossary">3.&#160;&#160;<a href="/wiki/Tur%C3%A1n%27s_theorem" title="Turán&#39;s theorem">Turán's theorem</a> states that Turán graphs have the maximum number of edges among all clique-free graphs of a given order.</dd>
 <dd class="glossary">4.&#160;&#160;<a href="/wiki/Tur%C3%A1n%27s_brick_factory_problem" title="Turán&#39;s brick factory problem">Turán's brick factory problem</a> asks for the minimum number of crossings in a drawing of a complete bipartite graph.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="undirected" style="margin-top: 0.4em;"><dfn class="glossary">undirected</dfn></dt>
 <dd class="glossary">An <a href="/wiki/Undirected_graph" class="mw-redirect" title="Undirected graph">undirected graph</a> is a graph in which the two endpoints of each edge are not distinguished from each other. See also <i>directed</i> and <i>mixed</i>. In a <a href="/wiki/Mixed_graph" title="Mixed graph">mixed graph</a>, an undirected edge is again one in which the endpoints are not distinguished from each other.</dd>
 
@@ -1155,10 +1072,6 @@ Important cases include <a href="/wiki/Spanning_tree" title="Spanning tree">span
 
 <dt class="glossary" id="unweighted_graph" style="margin-top: 0.4em;"><dfn class="glossary">unweighted graph</dfn></dt>
 <dd class="glossary">A <a href="#graph"><span title="See entry on this page at § graph" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">graph</span></a> whose <a href="#vertex"><span title="See entry on this page at § vertex" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">vertices</span></a> and <a href="#edge"><span title="See entry on this page at § edge" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">edge</span></a>s<i> have not been assigned <a href="#weight"><span title="See entry on this page at § weight" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">weight</span></a>s</i>; the opposite of a <a href="#weighted_graph"><span title="See entry on this page at § weighted graph" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">weighted graph</span></a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="v" style="margin-top: 0.4em;"><dfn class="glossary"><i>V</i></dfn></dt>
 <dd class="glossary">See <i>vertex set</i>.</dd>
@@ -1183,10 +1096,6 @@ Important cases include <a href="/wiki/Spanning_tree" title="Spanning tree">span
 <dd class="glossary">1.&#160;&#160;<a href="/wiki/Vadim_G._Vizing" title="Vadim G. Vizing">Vadim G. Vizing</a></dd>
 <dd class="glossary">2.&#160;&#160;<a href="/wiki/Vizing%27s_theorem" title="Vizing&#39;s theorem">Vizing's theorem</a> that the chromatic index is at most one more than the maximum degree.</dd>
 <dd class="glossary">3.&#160;&#160;<a href="/wiki/Vizing%27s_conjecture" title="Vizing&#39;s conjecture">Vizing's conjecture</a> on the domination number of Cartesian products of graphs.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_graph_theory_terms&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="w" style="margin-top: 0.4em;"><dfn class="glossary"><span class="texhtml mvar" style="font-style:italic;">W</span></dfn></dt>
 <dd class="glossary">The letter <span class="texhtml mvar" style="font-style:italic;">W</span> is used in notation for <a href="/wiki/Wheel_graph" title="Wheel graph">wheel graphs</a> and <a href="/wiki/Windmill_graph" title="Windmill graph">windmill graphs</a>. The notation is not standardized.</dd>
