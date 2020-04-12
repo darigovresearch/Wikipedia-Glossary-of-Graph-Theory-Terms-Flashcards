@@ -150,7 +150,10 @@ cactus (Wikipedia Glossary of Graph Theory Terms)|"
 cage (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Cage_(graph_theory)"" title=""Cage (graph theory)"">cage</a> is a regular graph with the smallest possible order for its girth.</dd>
 "
-canonical (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+canonical (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 canonization (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Canonical_form"" title=""Canonical form"">canonical form</a> of a graph is an invariant such that two graphs have equal invariants if and only if they are isomorphic. Canonical forms may also be called canonical invariants or complete invariants, and are sometimes defined only for the graphs within a particular family of graphs. <a href=""https://en.wikipedia.org/wiki/Graph_canonization"" title=""Graph canonization"">Graph canonization</a> is the process of computing a canonical form.</dd>
 "
@@ -182,7 +185,10 @@ cherry (Wikipedia Glossary of Graph Theory Terms)|"
 child (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">In a rooted tree, a child of a vertex <span class=""texhtml mvar"" style=""font-style:italic;"">v</span> is a neighbor of <span class=""texhtml mvar"" style=""font-style:italic;"">v</span> along an outgoing edge, one that is directed away from the root.</dd>
 "
-chord (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+chord (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 chordal (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">1.&#160;&#160;A chord of a cycle is an edge that does not belong to the cycle, for which both endpoints belong to the cycle.</dd>
 <dd class=""glossary"">2.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Chordal_graph"" title=""Chordal graph"">chordal graph</a> is a graph in which every cycle of four or more vertices has a chord, so the only induced cycles are triangles.</dd>
@@ -193,7 +199,10 @@ chordal (Wikipedia Glossary of Graph Theory Terms)|"
 chromatic (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">Having to do with coloring; see <a href=""#color""><span title=""See entry on this page at § color"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">color</span></a>. Chromatic graph theory is the theory of graph coloring. The <a href=""https://en.wikipedia.org/wiki/Chromatic_number"" class=""mw-redirect"" title=""Chromatic number"">chromatic number</a> <span class=""texhtml""><i>&#967;</i>(<i>G</i>)</span> is the minimum number of colors needed in a proper coloring of <span class=""texhtml mvar"" style=""font-style:italic;"">G</span>. <span class=""texhtml""><i>&#967;</i>&#8202;′(<i>G</i>)</span> is the <a href=""https://en.wikipedia.org/wiki/Chromatic_index"" class=""mw-redirect"" title=""Chromatic index"">chromatic index</a> of <span class=""texhtml mvar"" style=""font-style:italic;"">G</span>, the minimum number of colors needed in a proper <a href=""https://en.wikipedia.org/wiki/Edge_coloring"" title=""Edge coloring"">edge coloring</a> of <span class=""texhtml mvar"" style=""font-style:italic;"">G</span>.</dd>
 "
-choosable (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+choosable (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 choosability (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A graph is <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-choosable if it has a <a href=""https://en.wikipedia.org/wiki/List_coloring"" title=""List coloring"">list coloring</a> whenever each vertex has a list of <span class=""texhtml mvar"" style=""font-style:italic;"">k</span> available colors. The choosability of the graph is the smallest <span class=""texhtml mvar"" style=""font-style:italic;"">k</span> for which it is <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-choosable.</dd>
 "
@@ -236,7 +245,10 @@ closure (Wikipedia Glossary of Graph Theory Terms)|"
 co- (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">This prefix has various meanings usually involving <a href=""https://en.wikipedia.org/wiki/Complement_graph"" title=""Complement graph"">complement graphs</a>. For instance, a <a href=""https://en.wikipedia.org/wiki/Cograph"" title=""Cograph"">cograph</a> is a graph produced by operations that include complementation; a <a href=""https://en.wikipedia.org/wiki/Cocoloring"" title=""Cocoloring"">cocoloring</a> is a coloring in which each vertex induces either an independent set (as in proper coloring) or a clique (as in a coloring of the complement).</dd>
 "
-color (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+color (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 coloring (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">1.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Graph_coloring"" title=""Graph coloring"">graph coloring</a> is a labeling of the vertices of a graph by elements from a given set of colors, or equivalently a partition of the vertices into subsets, called ""color classes"", each of which is associated with one of the colors.</dd>
 <dd class=""glossary"">2.&#160;&#160;Some authors use ""coloring"", without qualification, to mean a proper coloring, one that assigns different colors to the endpoints of each edge. In graph coloring, the goal is to find a proper coloring that uses as few colors as possible; for instance, <a href=""https://en.wikipedia.org/wiki/Bipartite_graph"" title=""Bipartite graph"">bipartite graphs</a> are the graphs that have colorings with only two colors, and the <a href=""https://en.wikipedia.org/wiki/Four_color_theorem"" title=""Four color theorem"">four color theorem</a> states that every <a href=""https://en.wikipedia.org/wiki/Planar_graph"" title=""Planar graph"">planar graph</a> can be colored with at most four colors. A graph is said to be <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-colored if it has been (properly) colored with <span class=""texhtml mvar"" style=""font-style:italic;"">k</span> colors, and <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-colorable or <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-chromatic if this is possible.</dd>
@@ -306,7 +318,10 @@ cover (Wikipedia Glossary of Graph Theory Terms)|"
 critical (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A critical graph for a given property is a graph that has the property but such that every subgraph formed by deleting a single vertex does not have the property. For instance, a <a href=""https://en.wikipedia.org/wiki/Factor-critical_graph"" title=""Factor-critical graph"">factor-critical graph</a> is one that has a perfect matching (a 1-factor) for every vertex deletion, but (because it has an odd number of vertices) has no perfect matching itself. Compare <i>hypo-</i>, used for graphs which do not have a property but for which every one-vertex deletion does.</dd>
 "
-cube (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+cube (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 cubic (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Cube_graph"" class=""mw-redirect"" title=""Cube graph"">Cube graph</a>, the eight-vertex graph of the vertices and edges of a cube.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Hypercube_graph"" title=""Hypercube graph"">Hypercube graph</a>, a higher-dimensional generalization of the cube graph.</dd>
@@ -317,7 +332,10 @@ cubic (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">7.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Cubic_graph"" title=""Cubic graph"">Cubic graph</a>, another name for a <span class=""texhtml"">3</span>-regular graph, one in which each vertex has three incident edges.</dd>
 <dd class=""glossary"">8.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Cube-connected_cycles"" title=""Cube-connected cycles"">Cube-connected cycles</a>, a cubic graph formed by replacing each vertex of a hypercube by a cycle.</dd>
 "
-cut (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+cut (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 cut-set (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Cut_(graph_theory)"" title=""Cut (graph theory)"">cut</a> is a partition of the vertices of a graph into two subsets, or the set (also known as a cut-set) of edges that span such a partition, if that set is non-empty. An edge is said to span the partition if it has endpoints in both subsets. Thus, the removal of a cut-set from a connected graph disconnects it.</dd>
 "
@@ -339,7 +357,10 @@ deck (Wikipedia Glossary of Graph Theory Terms)|"
 decomposition (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">See <a href=""#tree_decomposition""><span title=""See entry on this page at § tree decomposition"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">tree decomposition</span></a>, <a href=""#path_decomposition""><span title=""See entry on this page at § path decomposition"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">path decomposition</span></a>, or <a href=""#branch-decomposition""><span title=""See entry on this page at § branch-decomposition"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">branch-decomposition</span></a>.</dd>
 "
-degenerate (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+degenerate (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 degeneracy (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-degenerate graph is an undirected graph in which every induced subgraph has minimum degree at most <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>. The <a href=""https://en.wikipedia.org/wiki/Degeneracy_(graph_theory)"" title=""Degeneracy (graph theory)"">degeneracy</a> of a graph is the smallest <span class=""texhtml mvar"" style=""font-style:italic;"">k</span> for which it is <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-degenerate. A degeneracy ordering is an ordering of the vertices such that each vertex has minimum degree in the induced subgraph of it and all later vertices; in a degeneracy ordering of a <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-degenerate graph, every vertex has at most <span class=""texhtml mvar"" style=""font-style:italic;"">k</span> later neighbours. Degeneracy is also known as the <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-core number, width, and linkage, and one plus the degeneracy is also called the coloring number or Szekeres–Wilf number. <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-degenerate graphs have also been called <span class=""texhtml mvar"" style=""font-style:italic;"">k</span>-inductive graphs.</dd>
 "
@@ -761,11 +782,17 @@ multiplicity (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">1.&#160;&#160;For the notation for open and closed neighborhoods, see <a href=""#neighbourhood""><span title=""See entry on this page at § neighbourhood"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">neighbourhood</span></a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A lower-case <span class=""texhtml mvar"" style=""font-style:italic;"">n</span> is often used (especially in computer science) to denote the number of vertices in a given graph.</dd>
 "
-neighbor (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+neighbor (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 neighbour (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A vertex that is adjacent to a given vertex.</dd>
 "
-neighborhood (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+neighborhood (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 neighbourhood (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Neighbourhood_(graph_theory)"" title=""Neighbourhood (graph theory)"">open neighbourhood</a> (or neighborhood) of a vertex <span class=""texhtml mvar"" style=""font-style:italic;"">v</span> is the subgraph induced by all vertices that are adjacent to <span class=""texhtml mvar"" style=""font-style:italic;"">v</span>. The closed neighbourhood is defined in the same way but also includes <span class=""texhtml mvar"" style=""font-style:italic;"">v</span> itself. The open neighborhood of <span class=""texhtml mvar"" style=""font-style:italic;"">v</span> in <span class=""texhtml mvar"" style=""font-style:italic;"">G</span> may be denoted <span class=""texhtml""><i>N</i><sub><i>G</i></sub>(<i>v</i>)</span> or <span class=""texhtml""><i>N</i>(<i>v</i>)</span>, and the closed neighborhood may be denoted <span class=""texhtml""><i>N</i><sub><i>G</i></sub>[<i>v</i>]</span> or <span class=""texhtml""><i>N</i>[<i>v</i>]</span>. When the openness or closedness of a neighborhood is not specified, it is assumed to be open.</dd>
 "
@@ -798,7 +825,10 @@ open (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">3.&#160;&#160;An order or ordering of a graph is an arrangement of its vertices into a sequence, especially in the context of <a href=""https://en.wikipedia.org/wiki/Topological_ordering"" class=""mw-redirect"" title=""Topological ordering"">topological ordering</a> (an order of a directed acyclic graph in which every edge goes from an earlier vertex to a later vertex in the order) and <a href=""https://en.wikipedia.org/wiki/Degeneracy_(graph_theory)"" title=""Degeneracy (graph theory)"">degeneracy ordering</a> (an order in which each vertex has minimum degree in the induced subgraph of it and all later vertices).</dd>
 <dd class=""glossary"">4.&#160;&#160;For the order of a haven or bramble, see <a href=""#haven""><span title=""See entry on this page at § haven"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">haven</span></a> and <a href=""#bramble""><span title=""See entry on this page at § bramble"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">bramble</span></a>.</dd>
 "
-orientation (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+orientation (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 oriented (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">1.&#160;&#160;An <a href=""https://en.wikipedia.org/wiki/Orientation_(graph_theory)"" title=""Orientation (graph theory)"">orientation</a> of an undirected graph is an assignment of directions to its edges, making it into a directed graph. An oriented graph is one that has been assigned an orientation. So, for instance, a <a href=""https://en.wikipedia.org/wiki/Polytree"" title=""Polytree"">polytree</a> is an oriented tree; it differs from a directed tree (an arborescence) in that there is no requirement of consistency in the directions of its edges. Other special types of orientation include <a href=""https://en.wikipedia.org/wiki/Tournament_(graph_theory)"" title=""Tournament (graph theory)"">tournaments</a>, orientations of complete graphs; <a href=""https://en.wikipedia.org/wiki/Strong_orientation"" title=""Strong orientation"">strong orientations</a>, orientations that are strongly connected; <a href=""https://en.wikipedia.org/wiki/Acyclic_orientation"" title=""Acyclic orientation"">acyclic orientations</a>, orientations that are acyclic; <a href=""https://en.wikipedia.org/wiki/Eulerian_path"" title=""Eulerian path"">Eulerian orientations</a>, orientations that are Eulerian; and <a href=""https://en.wikipedia.org/wiki/Transitive_orientation"" class=""mw-redirect"" title=""Transitive orientation"">transitive orientations</a>, orientations that are transitively closed.</dd>
 <dd class=""glossary"">2.&#160;&#160;Oriented graph, used by some authors as a synonym for a <a href=""https://en.wikipedia.org/wiki/Directed_graph"" title=""Directed graph"">directed graph</a>.</dd>
@@ -976,7 +1006,10 @@ Important cases include <a href=""https://en.wikipedia.org/wiki/Spanning_tree"" 
 sparse (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Sparse_graph"" class=""mw-redirect"" title=""Sparse graph"">sparse graph</a> is one that has few edges relative to its number of vertices. In some definitions the same property should also be true for all subgraphs of the given graph.</dd>
 "
-spectral (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+spectral (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 spectrum (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">The spectrum of a graph is the collection of <a href=""https://en.wikipedia.org/wiki/Eigenvalue"" class=""mw-redirect"" title=""Eigenvalue"">eigenvalues</a> of its adjacency matrix. <a href=""https://en.wikipedia.org/wiki/Spectral_graph_theory"" title=""Spectral graph theory"">Spectral graph theory</a> is the branch of graph theory that uses spectra to analyze graphs. See also spectral <a href=""#expansion""><span title=""See entry on this page at § expansion"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">expansion</span></a>.</dd>
 "
@@ -1096,7 +1129,10 @@ valency (Wikipedia Glossary of Graph Theory Terms)|"
 vertex (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Vertex_(graph_theory)"" title=""Vertex (graph theory)"">vertex</a> (plural vertices) is (together with edges) one of the two basic units out of which graphs are constructed. Vertices of graphs are often considered to be atomic objects, with no internal structure.</dd>
 "
-vertex cut (Wikipedia Glossary of Graph Theory Terms)|"TODO"
+vertex cut (Wikipedia Glossary of Graph Theory Terms)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Graph-Theory-Terms-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms"">""Glossary of graph theory terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 separating set (Wikipedia Glossary of Graph Theory Terms)|"
 <dd class=""glossary"">A set of <a href=""#vertex""><span title=""See entry on this page at § vertex"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">vertices</span></a> whose removal <a href=""#disconnected""><span title=""See entry on this page at § disconnected"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">disconnects</span></a> the <a href=""#graph""><span title=""See entry on this page at § graph"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">graph</span></a>. A one-vertex cut is called an <a href=""#articulation_point""><span title=""See entry on this page at § articulation point"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">articulation point</span></a> or <a href=""#cut_vertex""><span title=""See entry on this page at § cut vertex"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cut vertex</span></a>.</dd>
 "
