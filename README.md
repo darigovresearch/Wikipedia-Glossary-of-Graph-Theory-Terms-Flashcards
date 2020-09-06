@@ -29,3 +29,15 @@ Unless otherwise specified, everything in this repository is covered by the foll
 This repository uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms">"Glossary of graph theory terms"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
 
 To see this work in full go to https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>
