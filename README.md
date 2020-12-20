@@ -23,6 +23,8 @@ Watch our video on an Introduction to Anki for a complete overview -> [https://w
 ## Contributing
 Pull requests, corrections & fixes are welcome. Any contributions must be submitted under the same license that the original piece of work (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
 
+Watch our video on how to contribute to open source for a complete overview -> [https://www.youtube.com/watch?v=UWA4wyacY2A](https://www.youtube.com/watch?v=UWA4wyacY2A)
+
 ## License
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
